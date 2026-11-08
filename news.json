@@ -1,0 +1,24 @@
+{
+    "items": [
+        {
+            "id": "alpha-thanks",
+            "date": "08.11.2026",
+            "ru": {
+                "title": "Спасибо тестировщикам!",
+                "text": "Уважаемые тестировщики, большое спасибо вам за участие в закрытом альфа-тесте!\n\nСледующий промокод откроет вам всех героев и все посохи, чтобы вы могли использовать каждый из них и опробовать разные комбинации:\n\n<center><color=#7aff9a>FirstTest</color></center>\n\nПромокод действителен до 20.11.2026. Введите его в Магазине на вкладке «Промо».\n\nЕсли вы хотите самостоятельности, можете не использовать этот промокод."
+            },
+            "uk": {
+                "title": "Дякуємо тестувальникам!",
+                "text": "Шановні тестувальники, щиро дякуємо вам за участь у закритому альфа-тесті!\n\nНаступний промокод відкриє вам усіх героїв і всі посохи, щоб ви могли використовувати кожного з них і випробувати різні комбінації:\n\n<center><color=#7aff9a>FirstTest</color></center>\n\nПромокод дійсний до 20.11.2026. Введіть його в Магазині на вкладці «Промо».\n\nЯкщо ви хочете самостійності, можете не використовувати цей промокод."
+            },
+            "en": {
+                "title": "Thank you, testers!",
+                "text": "Dear testers, thank you very much for taking part in the closed alpha test!\n\nThe following promo code will unlock all heroes and all staffs for you, so you can use each of them and try different combinations:\n\n<center><color=#7aff9a>FirstTest</color></center>\n\nThe promo code is valid until 20.11.2026. Enter it in the Shop, on the \"Promo\" tab.\n\nIf you prefer to discover everything on your own, you do not have to use this promo code."
+            },
+            "fr": {
+                "title": "Merci aux testeurs !",
+                "text": "Chers testeurs, merci beaucoup de participer au test alpha fermé !\n\nLe code promo suivant débloquera pour vous tous les héros et tous les bâtons, afin que vous puissiez utiliser chacun d'eux et essayer différentes combinaisons :\n\n<center><color=#7aff9a>FirstTest</color></center>\n\nLe code promo est valable jusqu'au 20.11.2026. Saisissez-le dans la Boutique, sur l'onglet « Promo ».\n\nSi vous préférez tout découvrir par vous-même, vous n'êtes pas obligé d'utiliser ce code promo."
+            }
+        }
+    ]
+}
