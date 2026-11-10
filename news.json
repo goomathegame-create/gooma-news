@@ -1,6 +1,26 @@
 {
     "items": [
         {
+            "id": "update-0706",
+            "date": "10.11.2026",
+            "ru": {
+                "title": "Обновление 0.8.7.706",
+                "text": "Гайд для новичков: короткий обучающий тур по игре и по меню, за прохождение есть награда.\nНовая комбинация «Метеориты» (земляные шипы + огненный шар).\nСкорость игры в настройках: x1, x1.5 и x2. Выбор языка теперь в отдельном окне.\nПоток Gooma стал плавнее: больше в начале боя, меньше толпы после 7-й минуты.\nПовышен урон многих заклинаний, изменён баланс комбинаций.\n«Понизить» усиление теперь возвращает все кристаллы."
+            },
+            "uk": {
+                "title": "Оновлення 0.8.7.706",
+                "text": "Гайд для новачків: короткий навчальний тур по грі та меню, за проходження є нагорода.\nНова комбінація «Метеорити» (земляні шипи + вогняна куля).\nШвидкість гри в налаштуваннях: x1, x1.5 та x2. Вибір мови тепер в окремому вікні.\nПотік Gooma став плавнішим: більше на початку бою, менше натовпу після 7-ї хвилини.\nПідвищено шкоду багатьох заклять, змінено баланс комбінацій.\n«Понизити» підсилення тепер повертає всі кристали."
+            },
+            "en": {
+                "title": "Update 0.8.7.706",
+                "text": "A beginner's guide: a short tour of the game and the menu, with a reward for finishing it.\nA new combination, \"Meteors\" (earth spikes + fireball).\nGame speed in the settings: x1, x1.5 and x2. The language now has its own window.\nThe flow of Goomas is smoother: more at the start of a fight, less crowding after the 7th minute.\nThe damage of many spells is raised and the balance of combinations is changed.\n\"Downgrade\" of an upgrade now returns all the crystals."
+            },
+            "fr": {
+                "title": "Mise à jour 0.8.7.706",
+                "text": "Un guide pour les débutants : une courte visite du jeu et du menu, avec une récompense à la fin.\nNouvelle combinaison « Météorites » (pointes de terre + boule de feu).\nVitesse du jeu dans les paramètres : x1, x1.5 et x2. La langue a maintenant sa propre fenêtre.\nLe flux de Goomas est plus fluide : plus au début du combat, moins de foule après la 7e minute.\nLes dégâts de nombreux sorts sont augmentés et l'équilibre des combinaisons est modifié.\n« Rétrograder » une amélioration rend maintenant tous les cristaux."
+            }
+        },
+        {
             "id": "update-0874",
             "date": "08.11.2026",
             "ru": {
