@@ -1,6 +1,26 @@
 {
     "items": [
         {
+            "id": "update-0776",
+            "date": "12.11.2026",
+            "ru": {
+                "title": "Обновление 0.8.7.776",
+                "text": "Можно продолжить незаконченную игру.\nДобавлена новая комбинация «Орбита».\nУсилены заклинания на 10 уровне.\nДобавлены новые артефакты.\nДобавлено возрождение за рекламу.\nИзменён подсчёт урона по броне и здоровью.\nУсилена руна урона, изменён Каджит.\nИзменено выпадение заклинаний и условие открытия посоха молнии.\nИсправлены ошибки.\nИзменён баланс комбинаций и артефактов."
+            },
+            "uk": {
+                "title": "Оновлення 0.8.7.776",
+                "text": "Можна продовжити незакінчену гру.\nДодано нову комбінацію «Орбіта».\nПосилено закляття на 10 рівні.\nДодано нові артефакти.\nДодано відродження за рекламу.\nЗмінено підрахунок шкоди по броні та здоров’ю.\nПосилено руну шкоди, змінено Каджита.\nЗмінено випадання заклять і умову відкриття посоха блискавки.\nВиправлено помилки.\nЗмінено баланс комбінацій і артефактів."
+            },
+            "en": {
+                "title": "Update 0.8.7.776",
+                "text": "You can continue an unfinished run.\nAdded a new combination, \"Orbit\".\nSpells are stronger at level 10.\nAdded new artifacts.\nAdded a rebirth for an ad.\nChanged how damage to armor and health is calculated.\nThe Rune of Damage is stronger, the Cat Wizard is changed.\nChanged how spells appear and the condition to unlock the Staff of Lightning.\nFixed bugs.\nThe balance of combinations and artifacts has changed."
+            },
+            "fr": {
+                "title": "Mise à jour 0.8.7.776",
+                "text": "Vous pouvez continuer une partie inachevée.\nAjout d'une nouvelle combinaison « Orbite ».\nLes sorts sont renforcés au niveau 10.\nAjout de nouveaux artefacts.\nAjout du retour après la mort grâce à une publicité.\nLe calcul des dégâts à l'armure et à la santé a changé.\nLa rune de dégâts est renforcée, le Mage chat est modifié.\nModification de l'apparition des sorts et de la condition de déblocage du bâton de foudre.\nCorrection de bugs.\nL'équilibre des combinaisons et des artefacts a changé."
+            }
+        },
+        {
             "id": "update-0706",
             "date": "10.11.2026",
             "ru": {
