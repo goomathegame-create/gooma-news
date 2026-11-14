@@ -1,6 +1,26 @@
 {
     "items": [
         {
+            "id": "update-0859",
+            "date": "14.11.2026",
+            "ru": {
+                "title": "Обновление 0.8.8.859",
+                "text": "Новый посох воды и заклинание «Водяные пузыри».\nНовые комбинации: «Радужные пузыри», «Ледниковый период» и «Иллюзия».\nНовый статус «Мокрый»: молния бьёт сильнее, лёд действует сильнее, огонь слабее.\nДобавлено около 30 новых артефактов.\nИсправлена ошибка: некоторые заклинания не могли наносить критический урон.\nВетряной поток ослаблен, изменён Магический луч и Аркановые кристаллы.\nИсправлены ошибки и подкорректирован баланс."
+            },
+            "uk": {
+                "title": "Оновлення 0.8.8.859",
+                "text": "Новий посох води та закляття «Водяні бульбашки».\nНові комбінації: «Райдужні бульбашки», «Льодовиковий період» та «Ілюзія».\nНовий статус «Мокрий»: блискавка б’є сильніше, лід діє сильніше, вогонь слабше.\nДодано близько 30 нових артефактів.\nВиправлено помилку: деякі закляття не могли завдавати критичної шкоди.\nВітряний потік послаблено, змінено Магічний промінь і Арканові кристали.\nВиправлено помилки та підкориговано баланс."
+            },
+            "en": {
+                "title": "Update 0.8.8.859",
+                "text": "A new Staff of Water and the \"Water Bubbles\" spell.\nNew combinations: \"Rainbow Bubbles\", \"Ice Age\" and \"Illusion\".\nA new \"Wet\" status: lightning hits harder, ice is stronger, fire is weaker.\nAdded about 30 new artifacts.\nFixed a bug: some spells could not deal critical damage.\nThe Wind Gust is weakened, the Magic Ray and the Arcane Crystals are changed.\nFixed bugs and adjusted the balance."
+            },
+            "fr": {
+                "title": "Mise à jour 0.8.8.859",
+                "text": "Nouveau bâton de l'eau et sort « Bulles d'eau ».\nNouvelles combinaisons : « Bulles arc-en-ciel », « Âge glaciaire » et « Illusion ».\nNouveau statut « Mouillé » : la foudre frappe plus fort, la glace est plus efficace, le feu est plus faible.\nAjout d'environ 30 nouveaux artefacts.\nCorrection d'un bug : certains sorts ne pouvaient pas infliger de coups critiques.\nLe Souffle de vent est affaibli, le Rayon magique et les Cristaux arcaniques sont modifiés.\nCorrection de bugs et ajustement de l'équilibre."
+            }
+        },
+        {
             "id": "update-0776",
             "date": "12.11.2026",
             "ru": {
