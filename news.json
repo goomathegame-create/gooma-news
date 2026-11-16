@@ -1,6 +1,26 @@
 {
     "items": [
         {
+            "id": "update-0899",
+            "date": "16.11.2026",
+            "ru": {
+                "title": "Обновление 0.8.8.899",
+                "text": "Облачные сохранения через Google Play Игры: сохранить, восстановить и удалить можно в настройках.\nНовый артефакт «Магнитная пыль»: руна магнита притягивает и кристаллы.\nУ Торговца душами появилась кнопка «Обновить».\nИз окон выбора и магазина можно открыть окно героя и настройки.\nВ настройках можно отключить анимацию открытия сундуков.\nЗначительно переработан баланс игры на всех этапах.\nИсправлены ошибки."
+            },
+            "uk": {
+                "title": "Оновлення 0.8.8.899",
+                "text": "Хмарні збереження через Google Play Ігри: зберегти, відновити й видалити можна в налаштуваннях.\nНовий артефакт «Магнітний пил»: руна магніту притягує й кристали.\nУ Торговця душами з’явилась кнопка «Оновити».\nЗ вікон вибору й магазину можна відкрити вікно героя та налаштування.\nУ налаштуваннях можна вимкнути анімацію відкриття скринь.\nЗначно перероблено баланс гри на всіх етапах.\nВиправлено помилки."
+            },
+            "en": {
+                "title": "Update 0.8.8.899",
+                "text": "Cloud saves through Google Play Games: save, restore and delete in the settings.\nA new artifact \"Magnetic Dust\": the Magnet Rune pulls crystals too.\nThe Soul Trader now has a \"Refresh\" button.\nThe hero window and the settings can be opened from the choice windows and the shop.\nThe chest opening animation can be turned off in the settings.\nThe game balance has been significantly reworked at all stages.\nFixed bugs."
+            },
+            "fr": {
+                "title": "Mise à jour 0.8.8.899",
+                "text": "Sauvegardes dans le cloud via Google Play Jeux : sauvegarder, restaurer et supprimer dans les paramètres.\nNouvel artefact « Poussière magnétique » : la rune magnétique attire aussi les cristaux.\nLe Marchand d’âmes a maintenant un bouton « Actualiser ».\nOn peut ouvrir la fenêtre du héros et les paramètres depuis les fenêtres de choix et la boutique.\nL’animation d’ouverture des coffres peut être désactivée dans les paramètres.\nL’équilibre du jeu a été considérablement remanié à tous les stades.\nCorrection de bugs."
+            }
+        },
+        {
             "id": "update-0859",
             "date": "14.11.2026",
             "ru": {
