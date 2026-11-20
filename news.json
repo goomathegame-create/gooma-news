@@ -2,6 +2,26 @@
     "latest": "",
     "items": [
         {
+            "id": "update-0978",
+            "date": "20.11.2026",
+            "ru": {
+                "title": "Обновление 0.9.0.78",
+                "text": "Бой с боссом: Император Gooma ждёт на 5 этаже режима «Испытание». Попробовать можно кнопкой «Сразиться с боссом» перед забегом (тестовая версия, награды нет).\nНовый божественный артефакт «Разлом миров»: сразу переносит на новый случайный этаж, где Gooma на 10% сильнее.\nСредний, Тяжёлый и Испытание стали немного легче.\nНеуязвимость за уровень стала короче и даётся только за взятый уровень.\nИсправлены ошибки: отказ от рекламы на возрождение, открытие Кота-волшебника."
+            },
+            "uk": {
+                "title": "Оновлення 0.9.0.78",
+                "text": "Бій із босом: Імператор Gooma чекає на 5 поверсі режиму «Випробування». Спробувати можна кнопкою «Зустрітися з босом» перед забігом (тестова версія, нагороди немає).\nНовий божественний артефакт «Розлом світів»: одразу переносить на новий випадковий поверх, де Gooma на 10% сильніші.\nСередній, Важкий і Випробування стали трохи легшими.\nНевразливість за рівень стала коротшою і дається лише за взятий рівень.\nВиправлено помилки: відмова від реклами на відродження, відкриття Кота-чарівника."
+            },
+            "en": {
+                "title": "Update 0.9.0.78",
+                "text": "Boss fight: the Emperor Gooma waits on floor 5 of the Trial mode. Try it with the button \"Fight the boss\" before a run (a test version, no reward).\nA new divine artifact \"Rift of Worlds\": it takes you to a new random floor at once, where the Goomas are 10% stronger.\nMedium, Hard and Trial are a bit easier.\nInvulnerability for a level is shorter and is given only for a level you take.\nFixed bugs: refusing the ad to be reborn, unlocking the Cat Wizard."
+            },
+            "fr": {
+                "title": "Mise à jour 0.9.0.78",
+                "text": "Combat de boss : le Gooma Empereur vous attend à l’étage 5 du mode Épreuve. Essayez-le avec le bouton « Affronter le boss » avant une partie (version de test, pas de récompense).\nNouvel artefact divin « Faille des mondes » : il vous emmène aussitôt à un nouvel étage aléatoire où les Goomas sont 10 % plus forts.\nLes modes Moyen, Difficile et Épreuve sont un peu plus faciles.\nL’invulnérabilité d’un niveau est plus courte et n’est donnée que pour un niveau pris.\nCorrections : refus de la pub de renaissance, déblocage du Chat magicien."
+            }
+        },
+        {
             "id": "update-0899",
             "date": "16.11.2026",
             "ru": {
