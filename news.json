@@ -2,6 +2,26 @@
     "latest": "0.9.0.78",
     "items": [
         {
+            "id": "update-09105",
+            "date": "22.11.2026",
+            "ru": {
+                "title": "Обновление 0.9.0.105",
+                "text": "Босс Император стал полноценным боем: три фазы, новые атаки (рык сериями, бегуны, прыжки с шипами, боковые стены шипов, монеты, короли) и анимация смерти.\nПосле победы над боссом появляется синий портал выхода: можно выйти или остаться и получить 3 божественных сундука. За победу — гарантированно 3 чудесных сундука и +1000 очков.\nВ результатах урон по боссу теперь показывается верно.\nИ остальные мелкие правки."
+            },
+            "uk": {
+                "title": "Оновлення 0.9.0.105",
+                "text": "Бій із босом Імператором став повноцінним: три фази, нові атаки (ричання серіями, бігуни, стрибки з шипами, бічні стіни шипів, монети, королі) та анімація смерті.\nПісля перемоги над босом з’являється синій портал виходу: можна вийти або залишитися й отримати 3 божественні скрині. За перемогу — гарантовано 3 чудові скрині та +1000 очок.\nУ результатах шкода по босу тепер показується правильно.\nІ решта дрібних виправлень."
+            },
+            "en": {
+                "title": "Update 0.9.0.105",
+                "text": "The Emperor boss fight is now complete: three phases, new attacks (roars in series, runners, jumps with spikes, side walls of spikes, coins, kings) and a death animation.\nAfter you beat the boss a blue exit portal appears: leave, or stay and get 3 divine chests. The victory also gives 3 wondrous chests for sure and +1000 points.\nThe damage dealt to the boss is now shown correctly in the results.\nAnd other minor fixes."
+            },
+            "fr": {
+                "title": "Mise à jour 0.9.0.105",
+                "text": "Le combat contre l’Empereur est complet : trois phases, de nouvelles attaques (rugissements en série, coureurs, sauts avec pointes, murs de pointes latéraux, pièces, rois) et une animation de mort.\nAprès la victoire, un portail bleu de sortie apparaît : partez, ou restez et obtenez 3 coffres divins. La victoire donne aussi 3 coffres merveilleux à coup sûr et +1000 points.\nLes dégâts infligés au boss s’affichent maintenant correctement dans les résultats.\nEt d’autres petites corrections."
+            }
+        },
+        {
             "id": "update-0978",
             "date": "20.11.2026",
             "ru": {
