@@ -1,6 +1,26 @@
 {
-    "latest": "0.9.0.78",
+    "latest": "0.9.0.105",
     "items": [
+        {
+            "id": "update-090121",
+            "date": "25.11.2026",
+            "ru": {
+                "title": "Обновление 0.9.0.121",
+                "text": "Этажи и порталы: продержитесь до открытия портала и перейдите на новую локацию. Каждый следующий этаж опаснее.\nНедельные ивенты: каждую неделю новый бонус (очки, кристаллы, опыт, сундуки и другое). Для ивентов нужен интернет.\nОбразы героев теперь можно купить и за деньги в магазине (вкладка «Покупки»), а часть из них и за кристаллы. Цены образов за кристаллы стали ниже. Появилось ускорение игры x2.\nОблачные сохранения и достижения Google Play.\nТест босса убран: Император Gooma ждёт в режиме «Испытание».\nИ остальные мелкие правки."
+            },
+            "uk": {
+                "title": "Оновлення 0.9.0.121",
+                "text": "Поверхи та портали: протримайтеся до відкриття порталу й перейдіть на нову локацію. Кожен наступний поверх небезпечніший.\nТижневі івенти: щотижня новий бонус (очки, кристали, досвід, скрині та інше). Для івентів потрібен інтернет.\nОбрази героїв тепер можна купити й за гроші в магазині (вкладка «Покупки»), а частину з них і за кристали. Ціни образів за кристали стали нижчими. З’явилося прискорення гри x2.\nХмарні збереження та досягнення Google Play.\nТест боса прибрано: Імператор Gooma чекає в режимі «Випробування».\nІ решта дрібних виправлень."
+            },
+            "en": {
+                "title": "Update 0.9.0.121",
+                "text": "Floors and portals: hold out until the portal opens and travel to a new location. Every next floor is more dangerous.\nWeekly events: a new bonus every week (points, crystals, experience, chests and more). Events need an internet connection.\nHero looks can now be bought for real money in the shop (the tab \"Purchases\"), and some of them for crystals too. The crystal prices of the looks are lower. The x2 game speed option has appeared.\nCloud saves and Google Play achievements.\nThe boss test is removed: the Emperor Gooma waits in the Trial mode.\nAnd other minor fixes."
+            },
+            "fr": {
+                "title": "Mise à jour 0.9.0.121",
+                "text": "Étages et portails : tenez jusqu’à l’ouverture du portail et partez vers un nouveau lieu. Chaque étage suivant est plus dangereux.\nÉvénements hebdomadaires : chaque semaine un nouveau bonus (points, cristaux, expérience, coffres et plus). Les événements nécessitent une connexion Internet.\nLes apparences des héros peuvent maintenant s’acheter avec de l’argent dans la boutique (onglet « Achats »), et certaines aussi avec des cristaux. Les prix en cristaux des apparences sont plus bas. L’option de vitesse x2 est apparue.\nSauvegardes dans le cloud et succès Google Play.\nLe test du boss est retiré : l’Empereur Gooma vous attend en mode Épreuve.\nEt d’autres petites corrections."
+            }
+        },
         {
             "id": "update-09105",
             "date": "22.11.2026",
@@ -139,27 +159,6 @@
             "fr": {
                 "title": "Mise à jour 0.8.7",
                 "text": "Nouvelle combinaison « Terre chargée » (foudre + pointes de terre).\nFenêtre « Quoi de neuf ? » avec actualités et annonces.\nPastille sur le bouton « Progression » pour les récompenses de succès non récupérées.\nNouveaux prix des apparences dans la boutique.\nÉquilibrage, corrections des descriptions d'artefacts et corrections de bugs."
-            }
-        },
-        {
-            "id": "alpha-thanks",
-            "date": "08.11.2026",
-            "kind": "notice",
-            "ru": {
-                "title": "Спасибо тестировщикам!",
-                "text": "Уважаемые тестировщики, большое спасибо вам за участие в закрытом альфа-тесте!\n\nСледующий промокод откроет вам всех героев и все посохи, чтобы вы могли использовать каждый из них и опробовать разные комбинации:\n\n<center><color=#7aff9a>FirstTest</color></center>\n\nПромокод действителен до 20.11.2026. Введите его в Магазине на вкладке «Промо».\n\nЕсли вы хотите самостоятельности, можете не использовать этот промокод."
-            },
-            "uk": {
-                "title": "Дякуємо тестувальникам!",
-                "text": "Шановні тестувальники, щиро дякуємо вам за участь у закритому альфа-тесті!\n\nНаступний промокод відкриє вам усіх героїв і всі посохи, щоб ви могли використовувати кожного з них і випробувати різні комбінації:\n\n<center><color=#7aff9a>FirstTest</color></center>\n\nПромокод дійсний до 20.11.2026. Введіть його в Магазині на вкладці «Промо».\n\nЯкщо ви хочете самостійності, можете не використовувати цей промокод."
-            },
-            "en": {
-                "title": "Thank you, testers!",
-                "text": "Dear testers, thank you very much for taking part in the closed alpha test!\n\nThe following promo code will unlock all heroes and all staffs for you, so you can use each of them and try different combinations:\n\n<center><color=#7aff9a>FirstTest</color></center>\n\nThe promo code is valid until 20.11.2026. Enter it in the Shop, on the \"Promo\" tab.\n\nIf you prefer to discover everything on your own, you do not have to use this promo code."
-            },
-            "fr": {
-                "title": "Merci aux testeurs !",
-                "text": "Chers testeurs, merci beaucoup de participer au test alpha fermé !\n\nLe code promo suivant débloquera pour vous tous les héros et tous les bâtons, afin que vous puissiez utiliser chacun d'eux et essayer différentes combinaisons :\n\n<center><color=#7aff9a>FirstTest</color></center>\n\nLe code promo est valable jusqu'au 20.11.2026. Saisissez-le dans la Boutique, sur l'onglet « Promo ».\n\nSi vous préférez tout découvrir par vous-même, vous n'êtes pas obligé d'utiliser ce code promo."
             }
         }
     ]
